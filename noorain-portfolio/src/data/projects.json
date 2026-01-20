@@ -1,0 +1,18 @@
+[
+    {
+    "title": "Project A",
+    "imageSrc": "project.png",
+    "description": "Cybersecurity projects are currently in progress and will be added soon.",
+    "skills": ["python", "javascript", "html", "css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+    },
+    {
+    "title": "Project B",
+    "imageSrc": "project.png",
+    "description": "Academc and practice projects will be updated shortly.",
+    "skills": ["python", "javascript", "html", "css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+    }
+]

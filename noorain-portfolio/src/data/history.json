@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Cyber Security Learner",
+    "organisation": "Self Learning",
+    "startDate": "2024",
+    "endDate": "Present",
+    "experiences": [
+      "Learning network security fundamentals",
+      "Building secure web applications with React",
+      "Python automation for security tasks"
+    ],
+    "imageSrc": "serverIcon.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Personal Projects",
+    "startDate": "2023",
+    "endDate": "2024",
+    "experiences": [
+      "Developed responsive user interfaces using React",
+      "Worked with modern web technologies",
+      "Built portfolio projects"
+    ],
+    "imageSrc": "react.png"
+  }
+]

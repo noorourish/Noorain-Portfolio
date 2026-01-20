@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "python.png"
+  },
+  {
+    "title": "Cyber Security",
+    "imageSrc": "cyber security.jpg"
+  },
+  {
+    "title": "Python Libraries",
+    "imageSrc": "python libraries.jpg"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "Javascript.jpg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "node.png"
+  }
+]
